@@ -1,0 +1,11 @@
+.complete {
+    text-decoration: line-through;
+    display: inline-flex;
+    margin-right: 15px;
+}
+
+.notComplete {
+    text-decoration: none;
+    display: inline-flex;
+    margin-right: 15px;
+}
